@@ -8,6 +8,8 @@ This project includes a web application where disaster response worker can input
 ## Introduction
 ![image](https://user-images.githubusercontent.com/80202343/186523590-8ca544dd-f8aa-48a6-98d9-4686a82ab96f.png)
 
+![image](https://user-images.githubusercontent.com/80202343/186523802-cdae1330-f24d-40f8-ab66-9982c98265fb.png)
+
+
 ![image](https://user-images.githubusercontent.com/80202343/186523211-713887f1-8bec-4e54-881d-bc43371c3eae.png)
 
-![image](https://user-images.githubusercontent.com/80202343/186523655-56535aba-4859-4d3a-89a1-f0b870443427.png)
