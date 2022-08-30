@@ -5,7 +5,7 @@ This project is part of the Udacity's Data Scientist Nanodegree Program in colla
 
 This project includes a web application where disaster response worker can input messages received and get classification results. 
 
-## Introduction
+## Screenshots
 ![image](https://user-images.githubusercontent.com/80202343/186523590-8ca544dd-f8aa-48a6-98d9-4686a82ab96f.png)
 
 ![image](https://user-images.githubusercontent.com/80202343/186523802-cdae1330-f24d-40f8-ab66-9982c98265fb.png)
